@@ -3,6 +3,8 @@
 Author: Tarooshna Singh Chauhan  
 Institution: BITS Pilani
 
+📄 View the report: [FAANG Portfolio Risk Report](FAANG_Portfolio_Risk_Report.pdf)
+
 ## Overview
 
 This project analyzes the risk characteristics of FAANG stocks 
